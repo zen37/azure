@@ -86,5 +86,3 @@ Azure Integration Services is a suite of cloud-based services designed to enable
 3. **API Management**: Exposing APIs securely to third-party vendors.
 4. **Event-Driven Applications**: Real-time notification systems using Azure Event Grid.
 5. **Data Integration**: ETL workflows for building analytics solutions.
-
-Would you like to dive deeper into any specific service or use case?
